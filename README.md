@@ -1,26 +1,147 @@
-# 💫 Hi 👋, I'm Heet Popat
-Aspiring Software Engineer || Full Stack Devloper
+# 👋 Hi, I'm Heet Popat
 
-Email Me 👉 ✉️ **popatheet8@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### Aspiring Software Engineer | Full-Stack Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theheetpopat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:popatheet8@gmail.com) 
+I'm an MCA student passionate about building real-world software,  
+learning backend engineering, and exploring AI/ML.
 
-<!-- Snake Game Repo View -->
+🚀 Building real-world projects  
+🐍 Learning Python & backend development  
+🤝 Exploring Open Source & GSoC  
+☁️ Interested in Cloud, DevOps & AI Engineering  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theheetpopat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popatheet8@gmail.com)
+
+📧 **Email:** popatheet8@gmail.com
+
+---
+
+## 🚀 About Me
+
+- 🎓 MCA student focused on software engineering
+- 💻 Interested in full-stack and backend development
+- 🐍 Currently strengthening my Python skills
+- 🤖 Exploring AI/ML and AI Engineering
+- ☁️ Learning about Cloud and DevOps
+- 🤝 Interested in Open Source and GSoC
+- 🔨 Focused on building projects and improving through practical development
+
+---
+
+## 💻 Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🌱 Currently Learning
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-%23000000.svg?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-%23FF6F00.svg?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-%234285F4.svg?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 Food & Feast
+
+A full-stack food ordering application focused on creating a practical e-commerce experience.
+
+**Features:**
+- 🔐 User authentication
+- 🔎 Food search
+- 🛒 Shopping cart
+- 🍔 Food categories
+- 📦 Order management
+- 👤 User profile management
+
+**Tech:** HTML • CSS • JavaScript • Node.js • MongoDB
+
+🔗 **[View Project](#)** | **[Source Code](#)**
+
+> Replace the `#` links above with your actual project and GitHub repository links.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=heetpopatdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpopatdev&theme=dark&hide_border=false&layout=compact" height="165"/>
+
 </div>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=heetpopatdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=heetpopatdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=heetpopatdev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🐍 Become strong in Python
+- ⚙️ Build production-quality backend projects
+- 🧠 Strengthen Data Structures & Algorithms
+- 🤝 Contribute to Open Source
+- 🌍 Participate in GSoC
+- 🤖 Build practical AI/ML projects
+- ☁️ Learn Cloud, DevOps & deployment
+- 💼 Prepare for software engineering internships
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in software engineering, open source, interesting projects, and collaboration.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theheetpopat)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popatheet8@gmail.com)
+
+---
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=heetpopatdev&icon=0&color=0)
+
+</div>
