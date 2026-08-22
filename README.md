@@ -12,15 +12,6 @@ learning backend engineering, and exploring AI/ML.
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theheetpopat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popatheet8@gmail.com)
-
-📧 **Email:** popatheet8@gmail.com
-
----
-
 ## 🚀 About Me
 
 - 🎓 MCA student focused on software engineering
@@ -60,50 +51,6 @@ learning backend engineering, and exploring AI/ML.
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-%23000000.svg?style=for-the-badge)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-%23FF6F00.svg?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-%234285F4.svg?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### 🍔 Food & Feast
-
-A full-stack food ordering application focused on creating a practical e-commerce experience.
-
-**Features:**
-- 🔐 User authentication
-- 🔎 Food search
-- 🛒 Shopping cart
-- 🍔 Food categories
-- 📦 Order management
-- 👤 User profile management
-
-**Tech:** HTML • CSS • JavaScript • Node.js • MongoDB
-
-🔗 **[View Project](#)** | **[Source Code](#)**
-
-> Replace the `#` links above with your actual project and GitHub repository links.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=heetpopatdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpopatdev&theme=dark&hide_border=false&layout=compact" height="165"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=heetpopatdev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
 
 ---
 
