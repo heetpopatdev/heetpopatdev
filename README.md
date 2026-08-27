@@ -10,11 +10,11 @@
 
 <br>
 
-<a href="https://github.com/heetpopat">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://medium.com/@popatheet8">
+  <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/heetpopat">
+<a href="https://www.linkedin.com/in/theheetpopat/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
